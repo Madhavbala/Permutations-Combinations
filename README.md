@@ -16,8 +16,10 @@ The measure of central tendency is a single value that attempts to describe the 
 
 Mean  
 It is the sum of observations divided by the total number of observations. It is also defined as average which is the sum divided by count. 
+
 Median 
 It is the middle value of the data set. It splits the data into two halves. If the number of elements in the data set is odd then the center element is the median and if it is even then the median would be the average of two central elements. it first sorts the data i=and then performs the median operation
+
 Mode
 It is the value that has the highest frequency in the given data set. The data set may have no mode if the frequency of all data points is the same. Also, we can have more than one mode if we encounter two or more data points having the same frequency. 
 
