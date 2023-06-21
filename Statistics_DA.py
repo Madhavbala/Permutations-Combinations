@@ -34,7 +34,7 @@ for i in list(peru):
     print(i)
     count+=1
 
-print("Number of combinatons : ",count)
+print("Number of permutations : ",count)
 
 data_1 = [1,2,3]
 count = 0
